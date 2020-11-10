@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+.icon {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    box-sizing: content-box;
+}
+.form-container {
+    position: absolute;
+    top: 15vh;
+    border-radius: 5%;
+    background-color: white;
+    padding: 10%;
+    box-shadow: 0% 0% 10% 0% black;
+}
