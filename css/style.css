@@ -1,5 +1,5 @@
 body {
-    background-color: #FCBA04;
+    background-color: aqua;
 }
 .logo {
     width: 40px;
@@ -19,5 +19,5 @@ body {
     border-radius: 5%;
     background-color: white;
     padding: 10%;
-    box-shadow: 0% 0% 10% 0% black;
+    box-shadow: 3px 3px black;
 }
