@@ -1,5 +1,13 @@
-body {
-    background-color: aqua;
+body, html {
+    height: 100%;
+}
+
+#bg {
+    background-image: url(../images/farmer.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .logo {
     width: 40px;
@@ -12,12 +20,4 @@ body {
     height: 25px;
     padding: 10px;
     box-sizing: content-box;
-}
-.form-container {
-    position: absolute;
-    top: 15vh;
-    border-radius: 5%;
-    background-color: white;
-    padding: 10%;
-    box-shadow: 3px 3px black;
 }

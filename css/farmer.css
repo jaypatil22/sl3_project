@@ -1,3 +1,10 @@
-.form-group img,.form-group {
+#pdf img,.form-group {
     margin: 15px 0px;
+}
+#bg {
+    background-image: url(../images/farmer.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
