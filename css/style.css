@@ -2,6 +2,12 @@
     font-family: sans-serif;
 }
 
+body { 
+    display : flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
 body, html {
     height: 100%;
 }

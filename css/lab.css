@@ -5,3 +5,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.form-container {
+    margin-top: 8vh;
+    border-radius: 1%;
+    background-color: white;
+    padding: 40px;
+    opacity: 0.8;
+}
