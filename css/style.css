@@ -1,16 +1,16 @@
 * {
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-body { 
+body,html { 
     display : flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
-body, html {
+/* body, html {
     height: 100%;
-}
+} */
 
 #bg {
     background-image: url(../images/farmer.jpg);
